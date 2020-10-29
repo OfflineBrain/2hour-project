@@ -1,0 +1,5 @@
+photo:
+    apiUrl: "http://interview.agileengine.com"
+    auth: "/auth"
+    apiKey: "23567b218376f79d9415"
+
